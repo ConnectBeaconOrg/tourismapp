@@ -1,5 +1,3 @@
-# **As a Product Manager**
-
 Here's a detailed list of features that the app should support to assist tourists visiting Singapore:
 
 ---
@@ -456,5 +454,3 @@ Here's a detailed list of features that the app should support to assist tourist
   - FAQs and help articles.
 
 ---
-
-By incorporating these features, the app will serve as a comprehensive travel companion for tourists visiting Singapore, enhancing their experience by providing essential information, seamless navigation, cultural insights, and safety assurances.
