@@ -1,0 +1,21 @@
+{
+  "medialEmergencyData": [
+    {
+      "title": "Emergency Numbers",
+      "options": [
+        {
+          "name": "Ambulance and Fire Services",
+          "description": "Dial **995** for immediate medical or fire emergencies."
+        },
+        {
+          "name": "Police",
+          "description": "Dial **999** for police emergencies."
+        }
+      ]
+    },
+    {
+      "title": "Hospitals and Clinics",
+      "description": "<p>This is a <strong>bold</strong> paragraph.</p> Singapore boasts numerous world-class hospitals, with major facilities like <b>Singapore General Hospital (SGH)</b>, **Raffles Hospital**, and **Mount Elizabeth Hospital** offering both emergency care and specialized medical services."
+    }
+  ]
+}
